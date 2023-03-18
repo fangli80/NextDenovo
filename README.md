@@ -24,7 +24,7 @@ We benchmarked NextDenovo against other assemblers using Oxford Nanopore long re
 	If you want to compile from the source, run:
 
 	```sh
-	git clone git@github.com:Nextomics/NextDenovo.git
+	git clone https@github.com:Nextomics/NextDenovo.git
 	cd NextDenovo && make
 	```
 
